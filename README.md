@@ -1,6 +1,8 @@
 # QUEM SOU EU 
 
-- 👋 Olá, sou @JuliaMartinelli
+- 👋 Olá, sou @JuliaMartinelli 
+- Sou do Colegio Estadual Santa Maria Goretti 
+- Sou da turma do 1°ano A
 - 👀 Tenho interesse em conhecer novos lugares
 - 🌱 Atualmente estou aprendendo como ser uma pessoa melhor 
 
